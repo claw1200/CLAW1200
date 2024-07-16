@@ -11,7 +11,6 @@
 - I program mostly Python3 and Web 2.0 stuff
 - Studying Computer Science with Cyber Security
 - Dabble in a bit of C/C++
-- Soggy biscuit world champoin
 - Check out my latest project: [utilitybelt.app](https://utilitybelt.app)
 
 ### My Github Stats
