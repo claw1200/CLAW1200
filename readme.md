@@ -23,3 +23,5 @@ don't actully read it, just think about how cool the graphs look
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=claw1200&theme=slateorange&utcOffset=0)
 
 </p>
+
+![](https://komarev.com/ghpvc/?username=claw1200&base=0)
