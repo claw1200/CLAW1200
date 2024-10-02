@@ -8,9 +8,9 @@
 </p>
 <p>
     
-- I program mostly Python3 and Web 2.0 stuff
+- I program mostly Python3 and Web2 stuff
 - Studying Computer Science with Cyber Security
-- Dabble in a bit of C/C++
+- Dabble in a bit of C++ / Java
 - Check out my latest project: [utilitybelt.app](https://utilitybelt.app)
 
 ### My Github Stats
