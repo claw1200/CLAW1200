@@ -8,20 +8,9 @@
 </p>
 <p>
     
-- I program mostly Python3 and Web2 stuff
+- I program mostly Python3
 - Studying Computer Science with Cyber Security
 - Dabble in a bit of C++ / Java
 - Check out my latest project: [utilitybelt.app](https://utilitybelt.app)
-
-### My Github Stats
-
-don't actully read it, just think about how cool the graphs look
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claw1200&theme=slateorange) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claw1200&theme=slateorange)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=claw1200&theme=slateorange&utcOffset=0)
-
-</p>
 
 ![](https://komarev.com/ghpvc/?username=claw1200&base=0)
