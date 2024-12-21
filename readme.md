@@ -8,9 +8,6 @@
 </p>
 <p>
     
-- I program mostly Python3
-- Studying Computer Science with Cyber Security
-- Dabble in a bit of C++ / Java
 - Check out my latest project: [utilitybelt.app](https://utilitybelt.app)
 
 ![](https://komarev.com/ghpvc/?username=claw1200&base=0)
