@@ -7,6 +7,8 @@
 
 </p>
 <p>
+
+<img src="https://raw.githubusercontent.com/dynobo/lmdiag/master/badge.png">
     
 - Check out my latest project: [utilitybelt.app](https://utilitybelt.app)
 
